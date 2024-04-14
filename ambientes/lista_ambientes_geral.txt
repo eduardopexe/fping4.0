@@ -1,0 +1,7 @@
+bb_al;
+bb_de;
+bb_om;
+bb_be;
+bb_ccd;
+bb_ga;
+bb_es;

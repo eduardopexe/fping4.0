@@ -1,0 +1,2 @@
+1311974404;2011-07-29 18:20:04;example.cdl.cqmri;10;cpuok;mem ok;89.18;89.18;
+1311974405;2011-07-29 18:20:05;example02.srr.cqmri;7;cpuok;mem ok;58.20;58.20;

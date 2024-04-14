@@ -1,0 +1,1 @@
+1305866882;2011-05-20 01:48:02;10.33.16.62;swcpae02.pae.psys;FastEthernet0/23;up;up;0;0;330533755;1281659809;10000000;swcpae02.pae.psys_FastEthernet0/23;

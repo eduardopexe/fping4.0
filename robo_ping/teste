@@ -1,0 +1,86 @@
+######  #####
+spawn ssh 10.98.22.213
+Linux nagios 2.6.26-2-686 #1 SMP Sat Dec 26 09:01:51 UTC 2009 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec  2 14:29:02 2010 from 10.98.22.11
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+loss 
+###### vrf BT_PEPSICO:3770 #####
+spawn ssh 10.98.22.213
+Linux nagios 2.6.26-2-686 #1 SMP Sat Dec 26 09:01:51 UTC 2009 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec  2 14:29:08 2010 from 10.98.22.11
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+loss 
+###### vrf SUNALLIANCE_TMX:3032 #####
+spawn ssh 10.98.22.213
+Linux nagios 2.6.26-2-686 #1 SMP Sat Dec 26 09:01:51 UTC 2009 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec  2 14:29:08 2010 from 10.98.22.11
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+ ---  
+loss 
+###### vrf JOHNSON_TMX:2877 #####
+spawn ssh 10.98.22.213
+Linux nagios 2.6.26-2-686 #1 SMP Sat Dec 26 09:01:51 UTC 2009 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec  2 14:29:08 2010 from 10.98.22.11
+ ---  
+ ---  
+ ---  
+ ---  
+loss 
+###### vrf GENERALMILLS:4362 #####
+spawn ssh 10.98.22.213
+Linux nagios 2.6.26-2-686 #1 SMP Sat Dec 26 09:01:51 UTC 2009 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Thu Dec  2 14:29:09 2010 from 10.98.22.11
+ ---  
+ ---  
+ ---  
+ ---  
+loss 

@@ -1,0 +1,1 @@
+1310838748;2011-07-16 14:52:28;200.209.202.29;ok ok;;ok 0.00 #ok 0.63;ok 16.01#lat_b: 411.43 - 49/63 ;ok;16236;200.209.202.30;acc09.rjo;Serial2/0/2;kpmg.internet;internet;Internet KPMG - RJO/IP/03005;;;;2M;RJO/IP/03005;1-link fisico;lf;nocheck;-1;;;;;;nc|nc;ok;na;-1;-1;-1;-1;-1;-1;embratel;ok | ok;;;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;;;nao;Selecione;kpmg;

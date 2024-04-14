@@ -1,0 +1,2 @@
+rcdialvpn01.pat.psys;1w0d;316;est;green;
+rcdialvpn02.poc.psys;04:43:49;118;est;green;

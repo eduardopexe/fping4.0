@@ -1,0 +1,32 @@
+ICMP Redirect from 10.98.22.1 for ICMP Echo sent to 200.246.229.134
+ICMP Redirect from 10.98.22.1 for ICMP Echo sent to 200.210.242.62
+ICMP Redirect from 10.98.22.1 for ICMP Echo sent to 201.90.139.138
+ICMP Redirect from 10.98.22.202 for ICMP Echo sent to 189.2.153.42
+200.228.254.169 : xmt/rcv/%loss = 10/10/0%, min/avg/max = 2.84/6.98/36.9
+200.182.80.213  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 3.18/3.99/7.92
+189.2.153.41    : xmt/rcv/%loss = 10/10/0%, min/avg/max = 2.85/3.97/7.98
+200.174.159.149 : xmt/rcv/%loss = 10/10/0%, min/avg/max = 46.5/64.1/147
+201.57.161.189  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 8.71/9.17/11.6
+189.53.9.157    : xmt/rcv/%loss = 10/10/0%, min/avg/max = 41.7/42.8/48.1
+201.45.201.97   : xmt/rcv/%loss = 10/10/0%, min/avg/max = 8.51/18.4/103
+201.90.139.137  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 46.8/76.7/159
+201.64.86.49    : xmt/rcv/%loss = 10/10/0%, min/avg/max = 3.83/5.05/8.02
+200.210.242.61  : xmt/rcv/%loss = 10/0/100%
+200.246.229.133 : xmt/rcv/%loss = 10/10/0%, min/avg/max = 2.30/48.1/130
+200.178.73.21   : xmt/rcv/%loss = 10/10/0%, min/avg/max = 2.98/3.91/7.93
+201.38.230.149  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 8.61/8.98/9.39
+201.90.139.197  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 46.9/47.8/48.9
+200.174.159.150 : xmt/rcv/%loss = 10/3/70%, min/avg/max = 228/282/321
+200.246.229.134 : xmt/rcv/%loss = 10/10/0%, min/avg/max = 3.99/7.54/34.1
+201.45.201.98   : xmt/rcv/%loss = 10/10/0%, min/avg/max = 1199/1282/1442
+189.53.9.158    : xmt/rcv/%loss = 10/0/100%
+201.38.230.150  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 12.9/13.4/16.0
+189.2.153.42    : xmt/rcv/%loss = 10/10/0%, min/avg/max = 5.68/17.7/69.8
+200.210.242.62  : xmt/rcv/%loss = 10/0/100%
+201.90.139.138  : xmt/rcv/%loss = 10/4/60%, min/avg/max = 649/762/836
+200.228.254.170 : xmt/rcv/%loss = 10/0/100%
+201.64.86.50    : xmt/rcv/%loss = 10/10/0%, min/avg/max = 5.53/6.36/8.74
+201.57.161.190  : xmt/rcv/%loss = 10/0/100%
+201.90.139.198  : xmt/rcv/%loss = 10/0/100%
+200.182.80.214  : xmt/rcv/%loss = 10/10/0%, min/avg/max = 4.39/4.70/5.33
+200.178.73.22   : xmt/rcv/%loss = 10/10/0%, min/avg/max = 4.10/6.24/8.47

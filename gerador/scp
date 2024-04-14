@@ -1,0 +1,4 @@
+scp /fping4.0/lista_ip/hosts/hosts_snmpwalk.txt root@10.98.22.14:/hosts_walk/lista/hosts_snmpwalk.txt
+
+scp /fping4.0/lista_ip/hosts/host_interface.txt root@10.98.22.14:/hosts_walk/lista/host_interface.txt
+
