@@ -1,0 +1,236 @@
+ABN AMRO / Telefonica	MNS/IP/00648 	BR:30:5991 (TNS_BR_04142		
+Router/Port:	  	IP:	189.42.93.225	#NOME?
+ABN AMRO / Telefonica	MNS/IP/00683 	BR:19:3992 (TNS_BR_01669		
+Router/Port:	  	IP:	189.42.93.221	#NOME?
+ABN AMRO / Telefonica	MNS/IP/00648 	BR:30:5991 (TNS_BR_04142		
+Router/Port:	  	IP:	189.42.93.225	#NOME?
+ABN AMRO / Telefonica	MNS/IP/00683 	BR:19:3992 (TNS_BR_01669		
+Router/Port:	  	IP:	189.42.93.221	#NOME?
+Samsung - Atendimento Ciac	MNS/IP/00432 	NSR 02-15-1000000011		
+Router/Port:	ACC01.MNS   4/1/1 	IP:	201.90.139.138	MANAUS AM
+Samsung - Atendimento CIAC	MNS/IP/00431 	NSR 02-15-1000000011		
+Router/Port:	ACC01.MNS   4/1/0 	IP:	200.174.159.150	MANAUS AM
+Samsung - Atendimento Ciac	RCE/IP/08840 	NSR BRXXN12346-2		
+Router/Port:	GACC01.RCE  4/2/0.1/1/5/3:0	IP:	189.053.009.158	Recife - PE
+Samsung - Atendimento Ciac	RJO/IP/15746 	NSR BRXXN12348-8		
+Router/Port:	GACC07.RJO  2/2/0.1/2/5/3:0	IP:	201.057.161.190	Rio de Janeiro - RJ
+Samsung - Atendimento Ciac	SPO/IP/09942 	NSR BRXXN7593-7		
+Router/Port:	GACC03.SPOMB  FastEthernet5/0/4	IP:	200.178.073.022	São Paulo - SP
+SAMSUNG ELETRONICA DA AMA	4443147388			
+CIR:	16Kbps	  /  		
+SAMSUNG ELETRONICA DA AMA	4442162538			
+CIR:	16Kbps	  /  		
+SAMSUNG SDI BRASIL LTDA	4448238974			
+CIR:	16Kbps			
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	CAS/IP/01075 	NSR 02-07-1000007345		
+Router/Port:	ACC01.CAS  0/0/5:1.1 	IP:	200.246.149.018	Campinas - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	RJO/IP/04116 	NSR 02-07-1000007343		
+Router/Port:	ACC19.RJO  9/1/0 	IP:	201.038.230.126	Rio de Janeiro - RJ
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/07742 	NSR 02-07-1000007355		
+Router/Port:	GACC03.SPOMB   2/1/0.1/3/5/1:0	IP:	201.118.193.074	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/11440 	BRXXM2088-1		
+Router/Port:	ACC06.SPOMB  2/0/5:6	IP:	187.128.001.222	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	RJO/IP/04103 	NSR 02-07-1000007356		
+Router/Port:	ACC09.RJO   12/0/1:3 	IP:	201.118.193.078	Rio de Janeiro - RJ
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	PAE/IP/01178 	NSR 02-07-1000007346		
+Router/Port:	ACC09.PAE   12/0/7:4.1 	IP:	201.072.084.206	Porto Alegre - RS
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	RJO/IP/04117 	NSR 02-07-1100007343		
+Router/Port:	ACC11.RJO  10/1/3 	IP:	201.030.163.222	Rio de Janeiro - RJ
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/07751 	NSR 02-07-1000000029		
+Router/Port:	GACC05.SPOMB  2/3/0.1/3/1/2:0	IP:	189.002.153.042	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	BHE/IP/04082 	BRXXM17630-5		
+Router/Port:	GACC06.BHE   4/1/0.1/3/5/2:1.1 	IP:	187.128.012.098	Belo Horizonte - MG
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/07741 	NSR 02-07-1000007354		
+Router/Port:	ACC09.SPO   11/1/3	IP:	201.118.193.070	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	CTA/IP/01282 	NSR 02-07-1000007347		
+Router/Port:	ACC08.CTA   9/0/7:1.1 	IP:	201.072.023.078	Curitiba - PR
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/07762 	NSR 02-07-1000007344		
+Router/Port:	ACC06.SPOMB   0/1/0 	IP:	201.044.192.150	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	SPO/IP/07763 	NSR 02-07-1100007344		
+Router/Port:	ACC03.SPOMB  10/0/0 	IP:	201.044.192.154	São Paulo - SP
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	RJO/IP/04110 	NSR 02-15-1000000028		
+Router/Port:	ACC11.RJO  10/0/1	IP:	201.038.230.150	Rio de Janeiro - RJ
+Royal & Sunalliance Seguros S/A - Atendimento CIAC	BRE/IP/01233 	NSR 02-07-1000007348		
+Router/Port:	ACC02.OCO   1/0/7:7.1 	IP:	201.044.034.154	
+(Desativado) Aracruz Celulose S/A	MMI/IVG/00001 	FRO2003331772VRP		
+Router/Port:	ACC09.RJO  Hssi4/0/0.20	IP:	162.97.248.94	MIAMI - EUA
+(Desativado) Aracruz Celulose S/A	SCA/IVG/00001 	FRO2003331781VRP		
+Router/Port:	ACC09.RJO  Hssi4/0/0.20	IP:	162.97.248.146	NYON - SUIÇA
+Projeto General Motors (Gm) - Atendimento CIAC	SBO/IP/02186 	NSR 02-07-1000003009		
+Router/Port:	ACC03.SNE  10/0/0:6.1	IP:	200.245.214.146	SÃO BERNARDO DO CAMPO
+Projeto General Motors (Gm) - Atendimento CIAC	SBO/MULTI/02316 			
+Router/Port:	ACC04.SNE  2 	IP:	201.090.108.022	SÃO BERNARDO DO CAMPO
+Projeto General Motors (Gm) - Atendimento CIAC	SBO/IP/01975 	NSR 02-07-1000003008		
+Router/Port:	ACC04.SNE  4/1/3 	IP:		SÃO BERNARDO DO CAMPO
+Projeto General Motors (Gm) - Atendimento CIAC	DDA/IP/00228 			
+Router/Port:	ACC02.SNE   3/0/0:3.1 	IP:	200.245.214.146	DIADEMA - SP
+Projeto General Motors (Gm) - Atendimento CIAC	RCE/IP/00304 	02-07-1000003005		
+Router/Port:	ACC09.RCE  10/0/3:7.1	IP:	200.243.142.186	RECIFE - PE
+Projeto General Motors (Gm) - Atendimento CIAC	RGR/IP/00091 	NSR 02-07-1000003006		
+Router/Port:	ACC04.PAE   1/0/3:7.1	IP:	200.248.095.050	RIO GRANDE - RS
+Projeto General Motors (Gm) - Atendimento CIAC	RJO/IP/02261 	NSR 02-07-1000003007		
+Router/Port:	ACC21.RJO   0/0/4:8.1	IP:	200.179.063.074	RIO DE JANEIRO
+Projeto General Motors (Gm) - Atendimento CIAC	BSA/IP/00935 	NSR 02-07-1000003002		
+Router/Port:	GACC05.BSA  0/3/0.1/3/3/3:0	IP:	200.241.079.190	BRASÍLIA - DF
+Projeto General Motors (Gm) - Atendimento CIAC	SBO/IP/02229 	NSR 02-07-1000003015		
+Router/Port:	ACC04.SNE  4/1/2	IP:		SÃO BERNARDO DO CAMPO
+Projeto General Motors (Gm) - Atendimento CIAC	DDA/MULTI/26875 			
+Router/Port:	GACC01.SNE  M108	IP:	200.245.128.110	DIADEMA - SP
+Projeto General Motors (Gm) - Atendimento CIAC	CTA/IP/00388 	NSR 02-07-1000003003		
+Router/Port:	GACC05.CTA  3/3/0.1/3/6/3:1	IP:	200.178.200.246	CURITIBA - PR
+Projeto General Motors (Gm) - Atendimento CIAC	IPJ/IP/00077 			
+Router/Port:	GACC02.RCE  0/1/0.1/2/4/1:4	IP:	189.087.125.054	IPOJUCA - PE
+Projeto General Motors (Gm) - Atendimento CIAC	BHE/IP/00497 	NSR 02-07-1000003000		
+Router/Port:	GACC05.BHE   1/1/0.1/3/6/3:2.1	IP:	200.251.218.254	BELO HORIZONTE
+Projeto General Motors (Gm) - Atendimento CIAC	SPO/IP/04173 	NSR 02-07-1000003012		
+BRSPO-BRSPO CES3693 				
+Router/Port:		IP:	200.182.083.090	SÃO PAULO - SP
+Projeto General Motors (Gm) - Atendimento CIAC	SZN/IP/00022 	NSR 02-07-1000003014		
+Router/Port:	ACC08.SPOMB  2/0/7:5.1	IP:	201.064.160.098	SUZANO - SP
+Projeto General Motors (Gm) - Atendimento CIAC	SCN/IP/00037 	NSR 02-07-1000003010		
+Router/Port:	ACC09.SPO  11/1/2 	IP:	200.183.199.070	SÃO CAETANO DO SUL
+Projeto General Motors (Gm) - Atendimento CIAC	SDR/IP/00248 	NSR 02-07-1000003011		
+Router/Port:	ACC04.SDR   3/0/5:2.1 	IP:	200.254.224.202	SALVADOR - BA
+Projeto General Motors (Gm) - Atendimento CIAC	DDA/IP/00229 			
+Router/Port:	GACC01.SNE  2/2/0.1/2/1/1:4 	IP:		DIADEMA - SP
+Projeto General Motors (Gm) - Atendimento CIAC	PAE/IP/00802 	NSR 02-07-1000003004		
+Router/Port:	ACC11.PAE   9/0/0:3.1	IP:	200.248.245.106	PORTO ALEGRE - RS
+Projeto General Motors (Gm) - Atendimento CIAC	IPJ/IP/00078 			
+Router/Port:	GACC02.RCE  1/1/0.1/1/6/1:4	IP:	189.087.125.098	IPOJUCA - PE
+Projeto General Motors (Gm) - Atendimento CIAC 	SNE/IP/00246 	NSR 02-07-1000003016		
+Router/Port:	ACC03.SNE  10/0/2:10.1 	IP:	201.072.094.086	SANTO ANDRÉ
+Projeto General Motors (Gm) - Atendimento CIAC	STS/IP/00124 	NSR 02-07-1000003013		
+Router/Port:	GACC01.STS   4/2/0.1/3/1/3:1	IP:	200.210.169.202	SANTOS - SP
+ABN AMRO / Telefonica	VTA/IP/03211 	BR:19:2448 (TNS_BR_03985		
+Router/Port:	ACC06.VTA  0/0/3:15	IP:	189.42.84.185	#NOME?
+ABN AMRO / Telefonica	SDR/IP/01061 	BS:19:3849 (TNS_BR_04706		
+Router/Port:	ACC09.SDR  1/0/6:3	IP:	189.42.63.141	#NOME?
+Alcoa				
+GRC	SPO/IP/03916 	ALCOA-IPR-PRI		
+Ipiranga				
+Router/Port:	GACC01.SNE  2/2/0.1/1/7/3:5.1	IP:	200.245.141.70 	SPO Ipiranga
+Aliança Navegação e Logística Ltda - MCI MPLS Service	IAI/IP/00311 	W0U96720		
+Router/Port:	GACC01.FNS  3/1/0.1/1/6/3:1.1	IP:	189.086.024.170	Itajaí - SC
+Aracruz Celulose S/A (Vitoria)	ACZ/MULTI/00731 			
+Router/Port:	ACC04.VTA   Multilink 2 	IP:	201.045.070.158	Vitoria
+Baker Hughes - Atendimento Ciac	MCE/IP/00191 	NSR 02-07-1000008325		
+Router/Port:	GACC05.RJO  0/2/0.1/3/2/2:2	IP:	201.118.216.194	Macaé - RJ
+BIC BRASIL SA 	RSD/IP/01590 			
+Router/Port:	ACC07.RJO  5/0/2:7.1	IP:	200.255.248.082	
+BIC BRASIL SA 	RJO/IP/07737 			
+Router/Port:	GACC09.RJO   0/2/0.1/3/5/3:1.1	IP:	200.214.011.002	CNPJ: 61.140.349/0001-13 
+Bimbo do Brasil Ltda (Nutrella) - Atendimento Ciac	IAI/IP/00238 	NSR BRXXM347-5		
+Router/Port:	GACC02.FNS  1/0/0.1/3/4/1:3	IP:	200.250.165.082	Itajaí - SC
+Bosh Continental 2001 Eletrodométicos Ltda - BSH	SPO/MULTI/06958 			
+Router/Port:	GACC03.SPOLP    	IP:	200.228.013.086	
+Bosh Continental 2001 Eletrodométicos Ltda - BSH	HORT/IP/00599 			
+Router/Port:	ACC07.CAS     9/1/1.1	IP:	200.178.060.022	
+Bosh Continental 2001 Eletrodométicos Ltda - BSH	HORT/MULTI/06483 			
+Router/Port:	GACC02.CAS    4/1/0.1/3/1/3:0 	IP:	189.016.178.118	
+Burgmann do Brasil Vedações Industriais Ltda - Atendimento Embratel 	BAS/IVG/00039 	NSR 02-07-1000008209		
+Router/Port:		IP:	201.118.216.106	Buenos Aires
+Cargill Agricola S/A	4446963988	CCTO NACIONAL		
+CIR:	32Kbps	São Paulo - SP  /  São Paulo - SP		
+EKT Participações Ltda - Elektra - Atendimento Ciac	SDM/IP/00011 - SDM/MULTI/19447 	NSR BRXXN4490-8		
+Router/Port:	GACC01.RCE  3/2/0.1/3/5/1:0	IP:	189.003.097.210	São Lorenço da Mata
+General Mills - Mci MPLS Service	CEM/IP/00334 	W0R60898		
+Router/Port:	ACC12.BHE   10/0/4:3.1 	IP:	201.039.139.202	Contagem - MG
+General Mills - Mci MPLS Service	CBX/IP/00063 	W0U66561		
+Router/Port:	ACC09.CTA  9/0/0:2.1	IP:	201.064.200.238	Colombo - PR
+General Mills - Mci MPLS Service	BSA/IP/03401 	W0V92910		
+Router/Port:	ACC10.BSA  2/1/0.1	IP:	201.030.039.042	Brasília - DF
+GENERAL MOTORS DO BRASIL	4442840414			
+CIR:	256Kbps	SAO CAETANO DO SUL  /  BRASÍLIA		
+GENERAL MOTORS DO BRASIL	4447887968			
+CIR:	384Kbps	SÃO CAETANO DO SUL  /  INDAIATUBA		
+GENERAL MOTORS DO BRASIL	4448606617	CCTO NACIONAL		
+CIR:	256Kbps	SÃO CAETANO  /  SÃO PAULO		
+GENERAL MOTORS DO BRASIL	4448903267			
+CIR:	256Kbps	SÃO CAETANO  /  MOGI DAS CRUZES - SP		
+GENERAL MOTORS DO BRASIL	4449063554			
+CIR:	256Kbps	SOROCABA  /  SÃO CAETANO		
+GENERAL MOTORS DO BRASIL	4443837421			
+CIR:	384Kbps	SÃO CAETANO - SP  /  SÃO PAULO		
+GENERAL MOTORS DO BRASIL	4441843407			
+CIR:	128Kbps	SÃO CAETANO  /  RIO DE JANEIRO		
+GENERAL MOTORS DO BRASIL	4445993715			
+CIR:	128Kbps	SÃO CAETANO  /  PORTO ALEGRE - RS		
+GENERAL MOTORS DO BRASIL LTDA	4444807148			
+CIR:	256Kbps	SÃO CAETANO  /  SÃO CAETANO		
+GENERAL MOTORS DO BRASIL LTDA	4441006687			
+CIR:	384Kbps	SÃO CAETANO   /  SÃO CAETANO		
+GENERAL MOTORS DO BRASIL LTDA	4443810141			
+CIR:	128Kbps	SÃO CAETANO  /  RECIFE		
+GENERAL MOTORS DO BRASIL LTDA	4441924218	CCTO NACIONAL		
+CIR:	512Kbps	SÃO CAETANO DO SUL - SP  /  GRAVATAI - RS		
+GENERAL MOTORS DO BRASIL LTDA	4442964971	CCTO NACIONAL		
+CIR:	256Kbps	SÃO CAETANO DO SUL - SP  /  SÃO BERNARDO DO CAMPO - SP		
+GIE HENNER - GMC GESTION	CTA/IP/01167 	W0P63797		
+Router/Port:	ACC04.CTA   8/0/7:3.1 	IP:	200.250.211.185	Curitiba
+GM - Telmex CIAC	BF/SCN/00017 			
+Router/Port:	ACC16.SPO   2/0/3	IP:	200.228.022.074	São Caetano do Sul
+Harting Ltda	SPO/IP/09336 			
+Router/Port:	ACC08.SPOMB   9/0/4:6.1	IP:		
+Mahle Metal Leve S/A	MGU/IP/00073 	2048		
+Router/Port:	GACC10.SPOMB   2/0/0.1/3/6/1:0.1	IP:		
+Pepsico / BT Communication				
+Gold - 24X7X4				
+SLA 20 Minutos	SPO/IP/09568 	NSR 02-07-1000008205		
+BRAZ-032				
+Router/Port:	GACC03.SPOMB  FastEthernet3/2/3	IP:	201.118.217.014	SÃO PAULO
+Pepsico / BT Communications				
+Silver - 85NBD	IAI/IP/00267 	NSR BRXXM570-2		
+BRAZ-037				
+Router/Port:	GACC02.FNS  0/3/0.1/3/5/1:0.1	IP:	187.128.001.158	Itajaí - SC
+Procomp - Projeto Diebold - Verizon	BHE/IP/03582 	W0U93143		
+Router/Port:	ACC10.BHE   1/0/4:3.1	IP:	200.251.220.226	Belo Horizonte - MG
+SABO INDUSTRIA E COMÉRCIO DE AUTOPEÇAS LTDA	BAS/IVG/00002 	FRO2003328735VRP		
+Router/Port:	ACC09.RJO   HSSI4/0/0.101	IP:	162.97.101.74	Buenos Aires - Argentina
+Saint-Gobain Colômbia	BLL/IVG/00001 	CO0002 NSR COXXM10868-2		
+Router/Port:	ACC08.RJO  	IP:	187.128.006.062	Barranquilla - Atlantico
+Saint-Gobain Colômbia	BLL/IVG/00002 	CO0002 NSR COXXM10870-8		
+Router/Port:	ACC08.RJO  	IP:	187.128.006.066	Barranquilla - Atlantico
+Saint-Gobain Quartzolit Ltda - Argamassas	CBA/IP/00535 	BR0123		
+Router/Port:	GACC01.CBA  0/2/0.1/1/2/3:3.1	IP:	200.167.188.074	Cuiabá - MT
+Sucocitrico Cutrale Ltda	ARQ/MULTI/11617 			
+Router/Port:	GACC02.RPO  Multilink 8	IP:	200.183.236.006	ARARAQUARA
+Syngenta Seeds Ltda / BT Communications	FRM/IP/00032 			
+Router/Port:	GACC05.BSA  0/2/0.1/1/3/3:0.1	IP:	172.030.131.134	CNPJ: 49156326001254
+Eagle Global Logistics(SPRINT-PORTA IP)	STS/IP/00334 			
+Router/Port:	ACC03.STS   0/1/2 	IP:	201.064.086.050	Santos - SP
+Sprint - Federal Mogul - Atendimento CIAC	DDA/IP/00113 	NSR 02-15-1000006919		
+Router/Port:	  8/0/7:1 	IP:	200.210.242.062	DIADEMA SP
+Sprint - Federal Mogul - Atendimento CIAC	IPS/IP/00007 	NSR 02-15-1000006951		
+Router/Port:	ACC07.CAS    12/0/3 	IP:	201.072.068.190	Iracemápolis - SP
+SPRINTPORTAIP - Eagle Logistics	MNS/IP/00505 			
+Router/Port:	GACC01.MNS  6/2/0.1/3/4/2:2	IP:	201.090.139.198	Manaus - AM
+Ceras - SC Johnson - Atendimento CIAC	SPO/IP/07948 	NSR 02-15-1000006932		
+Router/Port:	ACC09.SPOMB     2/0/5:4 	IP:	201.044.192.22	Paulo - SP
+Ceras - SC Johnson - Atendimento CIAC	RJO/IP/03961 	NSR 02-07-1000007202		
+Router/Port:	ACC15.RJO   11/1/2 	IP:	201.118.016.126	RIO DE JANEIRO
+Ceras - SC Johnson - Atendimento CIAC	MNS/IP/01279 	NSR 02-07-1000007713		
+Router/Port:	QGACC01.MNS  2/0/0.1/1/6/1:0	IP:	187.128.010.054	Manaus - AM
+Ceras - SC Johnson - Atendimento CIAC	MNS/IP/00468 	NSR 02-07-1000007713		
+Router/Port:	ACC10.BSA   4/0/3 	IP:	201.118.192.62	Manaus
+Ceras - SC Johnson - Atendimento CIAC	BRE/IP/01213 	NSR 02-07-1000007274		
+Router/Port:	GACC01.OCO   2/3/0.1/1/4/1:0	IP:	187.128.009.134	Barueri - SP
+Ceras - SC Johnson - Atendimento CIAC	RJO/IP/04006 	NSR 02-07-1000007275		
+Router/Port:	ACC17.RJO   2/0/1	IP:	201.118.192.038	Rio de Janeiro
+SC Johnson - MCI MPLS Service	MNS/IP/01056 	W0U68627		
+Router/Port:	QACC01.MNS  9/0/1:0.1	IP:	189.042.121.106	Manaus - AM
+SC Johnson - MCI MPLS Service (Link de entroncamento entre EBT e MCI)	SPO/IT/01854 	W0U68622		
+Router/Port:	ACC09.SPO   1/0/0.105	IP:	152.176.034.173	São Paulo
+STRYKER	SPO/IP/08060 	NSR 02-15-1000006934		
+Router/Port:	ACC04.SPOMB   0/1/1 	IP:	200.182.080.214	São Paulo
+Johnson Matthey - Atendimento Embratel	SPO/IP/08510 	NSR 02-15-1000006954		
+Router/Port:	ACC05.SPOMB   12/1/0	IP:	200.178.056.238	SÃO PAULO
+VOLKSWAGEN - Atendimento Ciac	SPO/IP/09201 	NSR 02-15-1000006993		
+Router/Port:	ACC08.SPO   5/1/1 	IP:	200.246.229.134	São Paulo - SP
+Baker Hughes - Atendimento Ciac	RJO/IP/05702 	NSR 02-15-1000007029		
+Router/Port:	ACC14.RJO  12/0/1 	IP:	201.045.201.098	Rio de Janeiro, RJ
+Pepsico / BT Communications				
+Gold - 24X7X4				
+SLA 20 Minutos	SPO/IP/10373 	NSR 02-15-1000007060		
+BRAZ-032				
+Router/Port:	ACC03.SPOMB  1/0/1	IP:	200.228.254.170	SÃO PAULO
+
